@@ -63,5 +63,5 @@ ORM	JPA / Hibernate
 
 To Run the Project
 =====================================
-git clone https://github.com/mastanammanandyala/Library-full-project.git
+git clone https://github.com/mastanammanandyala/LibraryAPI.git
 cd Library-full-project
